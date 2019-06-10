@@ -1,3 +1,3 @@
 module.exports = {
-  uri: "mongodb://localhost:27017/amazon_tape_mongo"
+  uri: "mongodb://localhost:27017/${seu_banco}"
 };
